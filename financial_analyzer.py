@@ -1,7 +1,7 @@
 """
 Financial Report Generation System
-Author: Gopesh Aggarwal
-Roll No: 2301730158
+Author: Yash Vashisth
+Roll No: 2301730149
 
 Description:
 Core analysis module that loads financial data, computes key metrics and
@@ -198,7 +198,7 @@ def sample_dataset():
 def main():
     """CLI demo."""
     print("\nFinancial Report Generation System - Demo Analysis")
-    print("Author: Gopesh Aggarwal (2301730158)\n")
+    print("Author: Yash Vashisth (2301730149)\n")
 
     df = sample_dataset()
     package = build_summary_package(df)

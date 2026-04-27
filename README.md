@@ -74,8 +74,8 @@ Python • Pandas • NumPy • Hugging Face Transformers • Streamlit
 
 ## Author
 
-**Name:** Gopesh Aggarwal
-**Roll Number:** 2301730158
+**Name:** Yash Vashisth
+**Roll Number:** 2301730149
 **Project:** Financial Report Generation System
 **Date:** 2024-2025
 

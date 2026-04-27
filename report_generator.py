@@ -1,7 +1,7 @@
 """
 Financial Report Generator - AI Narrative Module
-Author: Gopesh Aggarwal
-Roll No: 2301730158
+Author: Yash Vashisth
+Roll No: 2301730149
 
 Description:
 Uses a Hugging Face text generation model (GPT-2) to turn structured
@@ -283,6 +283,6 @@ def assemble_report(package, company_name="Company"):
 
     lines.append("\n" + "=" * 70)
     lines.append("  Prepared by the Financial Report Generation System")
-    lines.append("  Author: Gopesh Aggarwal (2301730158)")
+    lines.append("  Author: Yash Vashisth (2301730149)")
     lines.append("=" * 70)
     return "\n".join(lines)
